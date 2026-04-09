@@ -1,0 +1,1155 @@
+Уровень: 1, url='https://github.com' urls:
+ https://docs.github.com
+https://github.blog
+https://github.blog/changelog
+https://skills.github.com
+https://docs.github.com
+https://support.github.com
+https://securitylab.github.com
+https://maintainers.github.com
+https://stars.github.com
+https://archiveprogram.github.com
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+https://www.gartner.com/reprints/?id=1-2LVTG7RP&ct=250915&st=sb
+https://resources.github.com
+https://docs.github.com/get-started/exploring-integrations/about-building-integrations
+https://partner.github.com
+https://cli.github.com
+https://desktop.github.com
+https://docs.github.com
+https://services.github.com
+https://skills.github.com
+https://www.githubstatus.com
+https://support.github.com?tags=dotcom-footer
+https://github.blog
+https://github.careers
+https://socialimpact.github.com
+https://shop.github.com
+https://docs.github.com/site-policy/github-terms/github-terms-of-service
+https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+https://www.linkedin.com/company/github
+https://www.instagram.com/github
+https://www.youtube.com/github
+https://x.com/github
+https://www.tiktok.com/@github
+https://www.twitch.tv/github
+
+Уровень: 2, url='https://github.blog' urls:
+ https://github.blog/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/generative-ai/
+https://github.blog/ai-and-ml/github-copilot/
+https://github.blog/ai-and-ml/llms/
+https://github.blog/ai-and-ml/machine-learning/
+https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/application-development/
+https://github.blog/developer-skills/career-growth/
+https://github.blog/developer-skills/github/
+https://github.blog/developer-skills/github-education/
+https://github.blog/developer-skills/programming-languages-and-frameworks/
+https://docs.github.com/en/get-started
+https://github.blog/engineering/
+https://github.blog/engineering/
+https://github.blog/engineering/architecture-optimization/
+https://github.blog/engineering/engineering-principles/
+https://github.blog/engineering/infrastructure/
+https://github.blog/engineering/platform-security/
+https://github.blog/engineering/user-experience/
+https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/automation/
+https://github.blog/enterprise-software/ci-cd/
+https://github.blog/enterprise-software/collaboration/
+https://github.blog/enterprise-software/devops/
+https://github.blog/enterprise-software/devsecops/
+https://github.blog/enterprise-software/governance-and-compliance/
+https://github.blog/news-insights/
+https://github.blog/news-insights/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/product-news/
+https://github.blog/news-insights/octoverse/
+https://github.blog/news-insights/policy-news-and-insights/
+https://github.blog/news-insights/research/
+https://github.blog/news-insights/the-library/
+https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+https://github.blog/open-source/
+https://github.blog/open-source/
+https://github.blog/open-source/git/
+https://github.blog/open-source/maintainers/
+https://github.blog/open-source/social-impact/
+https://github.blog/open-source/gaming/
+https://resources.github.com/software-development/innersource/
+https://github.blog/security/
+https://github.blog/security/
+https://github.blog/security/application-security/
+https://github.blog/security/supply-chain-security/
+https://github.blog/security/vulnerability-research/
+https://github.blog/security/web-application-security/
+https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/generative-ai/
+https://github.blog/ai-and-ml/github-copilot/
+https://github.blog/ai-and-ml/llms/
+https://github.blog/ai-and-ml/machine-learning/
+https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/application-development/
+https://github.blog/developer-skills/career-growth/
+https://github.blog/developer-skills/github/
+https://github.blog/developer-skills/github-education/
+https://github.blog/developer-skills/programming-languages-and-frameworks/
+https://docs.github.com/en/get-started
+https://docs.github.com/en/get-started
+https://github.blog/engineering/
+https://github.blog/engineering/
+https://github.blog/engineering/architecture-optimization/
+https://github.blog/engineering/engineering-principles/
+https://github.blog/engineering/infrastructure/
+https://github.blog/engineering/platform-security/
+https://github.blog/engineering/user-experience/
+https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/automation/
+https://github.blog/enterprise-software/ci-cd/
+https://github.blog/enterprise-software/collaboration/
+https://github.blog/enterprise-software/devops/
+https://github.blog/enterprise-software/devsecops/
+https://github.blog/enterprise-software/governance-and-compliance/
+https://github.blog/news-insights/
+https://github.blog/news-insights/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/product-news/
+https://github.blog/news-insights/octoverse/
+https://github.blog/news-insights/policy-news-and-insights/
+https://github.blog/news-insights/research/
+https://github.blog/news-insights/the-library/
+https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+https://github.blog/open-source/
+https://github.blog/open-source/
+https://github.blog/open-source/git/
+https://github.blog/open-source/maintainers/
+https://github.blog/open-source/social-impact/
+https://github.blog/open-source/gaming/
+https://resources.github.com/software-development/innersource/
+https://resources.github.com/software-development/innersource/
+https://github.blog/security/
+https://github.blog/security/
+https://github.blog/security/application-security/
+https://github.blog/security/supply-chain-security/
+https://github.blog/security/vulnerability-research/
+https://github.blog/security/web-application-security/
+https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/
+https://github.blog/author/rachcoheller/
+https://github.blog/author/rachcoheller/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/
+https://github.blog/author/nickthinks/
+https://github.blog/author/bartekperz/
+https://github.blog/engineering/architecture-optimization/
+https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/
+https://github.blog/author/lukeghenco/
+https://github.blog/author/adamshwert/
+https://github.blog/security/
+https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/
+https://github.blog/author/steiza/
+https://github.blog/latest/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/github-availability-report-march-2026/
+https://github.blog/author/jakuboleksy/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/
+https://github.blog/author/mattnigh/
+https://github.blog/author/briancl2/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/
+https://github.blog/author/jtmcg/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+https://github.blog/author/mariorod/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/
+https://github.blog/author/nickthinks/
+https://github.blog/author/bartekperz/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/
+https://github.blog/author/rachcoheller/
+https://github.blog/changelog/
+https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+https://github.blog/changelog/2026-04-08-code-security-risk-assessment-available-for-organizations
+https://github.blog/changelog/
+https://github.blog/engineering/
+https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/
+https://github.blog/author/cehfisher/
+https://github.blog/author/cehfisher/
+https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/
+https://github.blog/author/dtaivpp/
+https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/
+https://github.blog/author/aaronwinston/
+https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/
+https://github.blog/author/tkjaer/
+https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/
+https://github.blog/author/bk2204/
+https://github.blog/author/ttaylorr/
+https://www.youtube.com/github
+https://www.youtube.com/watch?v=b5Ho2_Si6hY
+https://www.youtube.com/@GitHub/playlists
+https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC
+https://www.youtube.com/playlist?list=PL0lo9MOBetEHEHi9h0k_lPn0XZdEeYZDS
+https://www.youtube.com/playlist?list=PL0lo9MOBetEE0goMLEl97vO7slruNVj43
+https://www.youtube.com/watch?v=n0NlxUyA7FI&list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP
+https://www.youtube.com/watch?v=n0NlxUyA7FI&list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP
+https://github.blog/news-insights/
+https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/
+https://github.blog/author/gregose/
+https://github.blog/news-insights/company-news/github-availability-report-february-2026/
+https://github.blog/author/jakuboleksy/
+https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/
+https://github.blog/author/vfedorovgh/
+https://github.blog/news-insights/company-news/github-availability-report-january-2026/
+https://github.blog/author/jakuboleksy/
+https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/?utm_source=blog-homepage&utm_medium=blog&utm_campaign=agent-3p-platform-feb-2026
+https://github.blog/author/mariorod/
+https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/
+https://github.blog/author/dbirtolo/
+https://docs.github.com/
+https://the-github-podcast.simplecast.com/
+https://resources.github.com/
+https://developer.github.com/
+https://partner.github.com/
+https://atom.io/
+https://www.electronjs.org/
+https://desktop.github.com/
+https://docs.github.com/
+https://services.github.com/
+https://www.githubstatus.com/
+https://support.github.com/
+https://github.blog/
+https://shop.github.com/
+https://docs.github.com/en/github/site-policy/github-terms-of-service
+https://docs.github.com/en/github/site-policy/github-privacy-statement
+https://www.linkedin.com/company/github
+https://www.instagram.com/github/
+https://www.youtube.com/github
+https://twitter.com/github
+https://www.tiktok.com/@github
+https://www.twitch.tv/github
+
+Уровень: 3, url='https://maintainers.github.com' urls:
+ 
+
+Уровень: 4, url='https://github.blog/changelog' urls:
+ https://github.blog/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog
+https://github.blog/changelog/feed/
+https://x.com/ghchangelog
+https://github.blog/changelog/2026/4/
+https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+https://github.blog/changelog/2026/?label=account-management
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-08-code-security-risk-assessment-available-for-organizations
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026-04-08-new-pgp-signing-key-for-github-cli-linux-packages
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-07-prioritize-security-alerts-with-runtime-context-from-dynatrace
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-07-dependabot-version-updates-now-support-the-nix-ecosystem
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-07-code-scanning-batch-apply-security-alert-suggestions-on-pull-requests
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026-04-06-npm-trusted-publishing-now-supports-circleci
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-06-copilot-usage-metrics-now-identify-active-and-passive-copilot-code-review-users
+https://github.blog/changelog/2026/?label=account-management
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-03-organization-firewall-settings-for-copilot-cloud-agent
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-03-copilot-cloud-agent-signs-its-commits
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports
+https://github.blog/changelog/2026/?label=account-management
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026-04-02-github-actions-early-april-2026-updates
+https://github.blog/changelog/2026/?label=actions
+https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-02-the-security-tab-is-now-security-quality
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026/?label=platform-governance
+https://github.blog/changelog/2026-04-02-improved-search-for-github-issues-is-now-generally-available
+https://github.blog/changelog/2026/?label=projects-and-issues
+https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-codespaces-is-now-generally-available-for-github-enterprise-with-data-residency
+https://github.blog/changelog/2026/?label=collaboration-tools
+https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/3/
+https://github.blog/changelog/2026/2/
+https://github.blog/changelog/2026/1/
+https://github.blog/changelog/2026/
+https://github.blog/changelog/2025/
+https://github.blog/changelog/2024/
+https://github.blog/changelog/2018/
+https://github.blog/changelog/2026/
+https://github.blog/changelog/2025/
+https://github.blog/changelog/2018/
+https://github.blog/changelog/2025/
+https://resources.github.com/
+https://developer.github.com/
+https://partner.github.com/
+https://atom.io/
+https://www.electronjs.org/
+https://desktop.github.com/
+https://docs.github.com/
+https://services.github.com/
+https://www.githubstatus.com/
+https://support.github.com/
+https://github.blog/
+https://shop.github.com/
+https://docs.github.com/en/github/site-policy/github-terms-of-service
+https://docs.github.com/en/github/site-policy/github-privacy-statement
+https://www.linkedin.com/company/github
+https://www.instagram.com/github/
+https://www.youtube.com/github
+https://twitter.com/github
+https://www.tiktok.com/@github
+https://www.twitch.tv/github
+
+Уровень: 5, url='https://github.blog/' urls:
+ https://github.blog/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/generative-ai/
+https://github.blog/ai-and-ml/github-copilot/
+https://github.blog/ai-and-ml/llms/
+https://github.blog/ai-and-ml/machine-learning/
+https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/application-development/
+https://github.blog/developer-skills/career-growth/
+https://github.blog/developer-skills/github/
+https://github.blog/developer-skills/github-education/
+https://github.blog/developer-skills/programming-languages-and-frameworks/
+https://docs.github.com/en/get-started
+https://github.blog/engineering/
+https://github.blog/engineering/
+https://github.blog/engineering/architecture-optimization/
+https://github.blog/engineering/engineering-principles/
+https://github.blog/engineering/infrastructure/
+https://github.blog/engineering/platform-security/
+https://github.blog/engineering/user-experience/
+https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/automation/
+https://github.blog/enterprise-software/ci-cd/
+https://github.blog/enterprise-software/collaboration/
+https://github.blog/enterprise-software/devops/
+https://github.blog/enterprise-software/devsecops/
+https://github.blog/enterprise-software/governance-and-compliance/
+https://github.blog/news-insights/
+https://github.blog/news-insights/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/product-news/
+https://github.blog/news-insights/octoverse/
+https://github.blog/news-insights/policy-news-and-insights/
+https://github.blog/news-insights/research/
+https://github.blog/news-insights/the-library/
+https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+https://github.blog/open-source/
+https://github.blog/open-source/
+https://github.blog/open-source/git/
+https://github.blog/open-source/maintainers/
+https://github.blog/open-source/social-impact/
+https://github.blog/open-source/gaming/
+https://resources.github.com/software-development/innersource/
+https://github.blog/security/
+https://github.blog/security/
+https://github.blog/security/application-security/
+https://github.blog/security/supply-chain-security/
+https://github.blog/security/vulnerability-research/
+https://github.blog/security/web-application-security/
+https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/generative-ai/
+https://github.blog/ai-and-ml/github-copilot/
+https://github.blog/ai-and-ml/llms/
+https://github.blog/ai-and-ml/machine-learning/
+https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/
+https://github.blog/developer-skills/application-development/
+https://github.blog/developer-skills/career-growth/
+https://github.blog/developer-skills/github/
+https://github.blog/developer-skills/github-education/
+https://github.blog/developer-skills/programming-languages-and-frameworks/
+https://docs.github.com/en/get-started
+https://docs.github.com/en/get-started
+https://github.blog/engineering/
+https://github.blog/engineering/
+https://github.blog/engineering/architecture-optimization/
+https://github.blog/engineering/engineering-principles/
+https://github.blog/engineering/infrastructure/
+https://github.blog/engineering/platform-security/
+https://github.blog/engineering/user-experience/
+https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/
+https://github.blog/enterprise-software/automation/
+https://github.blog/enterprise-software/ci-cd/
+https://github.blog/enterprise-software/collaboration/
+https://github.blog/enterprise-software/devops/
+https://github.blog/enterprise-software/devsecops/
+https://github.blog/enterprise-software/governance-and-compliance/
+https://github.blog/news-insights/
+https://github.blog/news-insights/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/product-news/
+https://github.blog/news-insights/octoverse/
+https://github.blog/news-insights/policy-news-and-insights/
+https://github.blog/news-insights/research/
+https://github.blog/news-insights/the-library/
+https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+https://github.blog/open-source/
+https://github.blog/open-source/
+https://github.blog/open-source/git/
+https://github.blog/open-source/maintainers/
+https://github.blog/open-source/social-impact/
+https://github.blog/open-source/gaming/
+https://resources.github.com/software-development/innersource/
+https://resources.github.com/software-development/innersource/
+https://github.blog/security/
+https://github.blog/security/
+https://github.blog/security/application-security/
+https://github.blog/security/supply-chain-security/
+https://github.blog/security/vulnerability-research/
+https://github.blog/security/web-application-security/
+https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/
+https://github.blog/author/rachcoheller/
+https://github.blog/author/rachcoheller/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/
+https://github.blog/author/nickthinks/
+https://github.blog/author/bartekperz/
+https://github.blog/engineering/architecture-optimization/
+https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/
+https://github.blog/author/lukeghenco/
+https://github.blog/author/adamshwert/
+https://github.blog/security/
+https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/
+https://github.blog/author/steiza/
+https://github.blog/latest/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/github-availability-report-march-2026/
+https://github.blog/author/jakuboleksy/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/
+https://github.blog/author/mattnigh/
+https://github.blog/author/briancl2/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/
+https://github.blog/author/jtmcg/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+https://github.blog/author/mariorod/
+https://github.blog/ai-and-ml/
+https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/
+https://github.blog/author/nickthinks/
+https://github.blog/author/bartekperz/
+https://github.blog/news-insights/company-news/
+https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/
+https://github.blog/author/rachcoheller/
+https://github.blog/changelog/
+https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+https://github.blog/changelog/2026-04-08-code-security-risk-assessment-available-for-organizations
+https://github.blog/changelog/
+https://github.blog/engineering/
+https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/
+https://github.blog/author/cehfisher/
+https://github.blog/author/cehfisher/
+https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/
+https://github.blog/author/dtaivpp/
+https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/
+https://github.blog/author/aaronwinston/
+https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/
+https://github.blog/author/tkjaer/
+https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/
+https://github.blog/author/bk2204/
+https://github.blog/author/ttaylorr/
+https://www.youtube.com/github
+https://www.youtube.com/watch?v=b5Ho2_Si6hY
+https://www.youtube.com/@GitHub/playlists
+https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC
+https://www.youtube.com/playlist?list=PL0lo9MOBetEHEHi9h0k_lPn0XZdEeYZDS
+https://www.youtube.com/playlist?list=PL0lo9MOBetEE0goMLEl97vO7slruNVj43
+https://www.youtube.com/watch?v=n0NlxUyA7FI&list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP
+https://www.youtube.com/watch?v=n0NlxUyA7FI&list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP
+https://github.blog/news-insights/
+https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/
+https://github.blog/author/gregose/
+https://github.blog/news-insights/company-news/github-availability-report-february-2026/
+https://github.blog/author/jakuboleksy/
+https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/
+https://github.blog/author/vfedorovgh/
+https://github.blog/news-insights/company-news/github-availability-report-january-2026/
+https://github.blog/author/jakuboleksy/
+https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/?utm_source=blog-homepage&utm_medium=blog&utm_campaign=agent-3p-platform-feb-2026
+https://github.blog/author/mariorod/
+https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/
+https://github.blog/author/dbirtolo/
+https://docs.github.com/
+https://the-github-podcast.simplecast.com/
+https://resources.github.com/
+https://developer.github.com/
+https://partner.github.com/
+https://atom.io/
+https://www.electronjs.org/
+https://desktop.github.com/
+https://docs.github.com/
+https://services.github.com/
+https://www.githubstatus.com/
+https://support.github.com/
+https://github.blog/
+https://shop.github.com/
+https://docs.github.com/en/github/site-policy/github-terms-of-service
+https://docs.github.com/en/github/site-policy/github-privacy-statement
+https://www.linkedin.com/company/github
+https://www.instagram.com/github/
+https://www.youtube.com/github
+https://twitter.com/github
+https://www.tiktok.com/@github
+https://www.twitch.tv/github
+
+Уровень: 6, url='https://github.blog/changelog/feed/' urls:
+ https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+https://github.blog
+https://github.blog/changelog/2026-02-19-pull-request-throughput-and-time-to-merge-available-in-copilot-usage-metrics-api
+https://docs.github.com/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiVersion=2026-03-10
+https://docs.github.com/copilot/concepts/copilot-usage-metrics
+https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+https://github.blog
+https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+https://github.blog
+https://docs.github.com/code-security/secret-scanning/introduction/about-secret-scanning
+https://docs.github.com/rest/secret-scanning
+https://gh.io/community-secret-scanning
+https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+https://github.blog
+https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+https://github.blog
+https://apps.apple.com/us/app/github/id1477376905
+https://play.google.com/store/apps/details?id=com.github.android
+https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+https://github.blog
+https://github.blog/changelog/2026-04-08-code-security-risk-assessment-available-for-organizations
+https://github.blog
+https://docs.github.com/enterprise-cloud@latest/code-security/responsible-use/responsible-use-autofix-code-scanning
+https://docs.github.com/enterprise-cloud@latest/code-security/concepts/code-scanning/code-security-risk-assessment
+https://github.blog/changelog/2026-04-08-code-security-risk-assessment-available-for-organizations
+https://github.blog
+https://github.blog/changelog/2026-04-08-new-pgp-signing-key-for-github-cli-linux-packages
+https://github.blog
+https://github.blog/changelog/2026-04-08-new-pgp-signing-key-for-github-cli-linux-packages
+https://github.blog
+https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+https://github.blog
+https://code.visualstudio.com/updates/v1_115
+https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+https://github.blog
+https://github.blog/changelog/2026-04-07-prioritize-security-alerts-with-runtime-context-from-dynatrace
+https://github.blog
+https://docs.dynatrace.com/docs/secure/threat-observability/security-events-ingest/ingest-github-advanced-security#credentials--github-app-based-authentication
+https://github.blog/changelog/2026-04-07-prioritize-security-alerts-with-runtime-context-from-dynatrace
+https://github.blog
+https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
+https://github.blog
+https://docs.github.com/copilot/how-tos/copilot-cli/customize-copilot/use-byok-models
+https://docs.github.com/copilot/how-tos/copilot-cli/customize-copilot/use-byok-models#running-in-offline-mode
+https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/authenticate-copilot-cli#unauthenticated-use
+https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
+https://github.blog
+https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
+https://github.blog
+https://docs.github.com/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates
+https://docs.github.com/get-started/learning-about-github/about-github-advanced-security
+https://docs.github.com/enterprise-cloud@latest/copilot/concepts/agents/about-third-party-agents
+https://docs.github.com/code-security/dependabot/dependabot-alerts/viewing-and-updating-dependabot-alerts
+https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
+https://github.blog
+https://github.blog/changelog/2026-04-07-dependabot-version-updates-now-support-the-nix-ecosystem
+https://github.blog
+https://wiki.nixos.org/wiki/Flakes
+https://docs.github.com/code-security/dependabot/dependabot-version-updates/about-dependabot-version-updates
+https://docs.github.com/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates
+https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuring-dependabot-version-updates
+https://wiki.nixos.org/wiki/Flakes
+https://github.blog/changelog/2026-04-07-dependabot-version-updates-now-support-the-nix-ecosystem
+https://github.blog
+
+Уровень: 7, url='https://partner.github.com' urls:
+ https://docs.github.com
+https://github.blog
+https://github.blog/changelog
+https://skills.github.com
+https://docs.github.com
+https://support.github.com
+https://securitylab.github.com
+https://maintainers.github.com
+https://stars.github.com
+https://archiveprogram.github.com
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+https://resources.github.com
+https://docs.github.com/get-started/exploring-integrations/about-building-integrations
+https://partner.github.com
+https://cli.github.com
+https://desktop.github.com
+https://docs.github.com
+https://services.github.com
+https://skills.github.com
+https://www.githubstatus.com
+https://support.github.com?tags=dotcom-footer
+https://github.blog
+https://github.careers
+https://socialimpact.github.com
+https://shop.github.com
+https://docs.github.com/site-policy/github-terms/github-terms-of-service
+https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+https://www.linkedin.com/company/github
+https://www.instagram.com/github
+https://www.youtube.com/github
+https://x.com/github
+https://www.tiktok.com/@github
+https://www.twitch.tv/github
+
+Уровень: 8, url='https://www.twitch.tv/github' urls:
+ 
+
+Уровень: 9, url='https://www.instagram.com/github' urls:
+ 
+
+Уровень: 10, url='https://github.blog/changelog/' urls:
+ https://github.blog/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog/changelog/
+https://docs.github.com/
+https://github.blog
+https://github.blog/changelog/feed/
+https://x.com/ghchangelog
+https://github.blog/changelog/2026/4/
+https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+https://github.blog/changelog/2026/?label=account-management
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-08-code-security-risk-assessment-available-for-organizations
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026-04-08-new-pgp-signing-key-for-github-cli-linux-packages
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-07-prioritize-security-alerts-with-runtime-context-from-dynatrace
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-07-dependabot-version-updates-now-support-the-nix-ecosystem
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-07-code-scanning-batch-apply-security-alert-suggestions-on-pull-requests
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026-04-06-npm-trusted-publishing-now-supports-circleci
+https://github.blog/changelog/2026/?label=supply-chain-security
+https://github.blog/changelog/2026-04-06-copilot-usage-metrics-now-identify-active-and-passive-copilot-code-review-users
+https://github.blog/changelog/2026/?label=account-management
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-03-organization-firewall-settings-for-copilot-cloud-agent
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-03-copilot-cloud-agent-signs-its-commits
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-02-copilot-usage-metrics-now-includes-per-user-github-copilot-cli-activity-in-organization-reports
+https://github.blog/changelog/2026/?label=account-management
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026-04-02-github-actions-early-april-2026-updates
+https://github.blog/changelog/2026/?label=actions
+https://github.blog/changelog/2026-04-02-github-copilot-in-visual-studio-march-update
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-02-the-security-tab-is-now-security-quality
+https://github.blog/changelog/2026/?label=application-security
+https://github.blog/changelog/2026/?label=enterprise-management-tools
+https://github.blog/changelog/2026/?label=platform-governance
+https://github.blog/changelog/2026-04-02-improved-search-for-github-issues-is-now-generally-available
+https://github.blog/changelog/2026/?label=projects-and-issues
+https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-codespaces-is-now-generally-available-for-github-enterprise-with-data-residency
+https://github.blog/changelog/2026/?label=collaboration-tools
+https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+https://github.blog/changelog/2026/?label=client-apps
+https://github.blog/changelog/2026/?label=copilot
+https://github.blog/changelog/2026/3/
+https://github.blog/changelog/2026/2/
+https://github.blog/changelog/2026/1/
+https://github.blog/changelog/2026/
+https://github.blog/changelog/2025/
+https://github.blog/changelog/2024/
+https://github.blog/changelog/2018/
+https://github.blog/changelog/2026/
+https://github.blog/changelog/2025/
+https://github.blog/changelog/2018/
+https://github.blog/changelog/2025/
+https://resources.github.com/
+https://developer.github.com/
+https://partner.github.com/
+https://atom.io/
+https://www.electronjs.org/
+https://desktop.github.com/
+https://docs.github.com/
+https://services.github.com/
+https://www.githubstatus.com/
+https://support.github.com/
+https://github.blog/
+https://shop.github.com/
+https://docs.github.com/en/github/site-policy/github-terms-of-service
+https://docs.github.com/en/github/site-policy/github-privacy-statement
+https://www.linkedin.com/company/github
+https://www.instagram.com/github/
+https://www.youtube.com/github
+https://twitter.com/github
+https://www.tiktok.com/@github
+https://www.twitch.tv/github
+
+TimeoutError: https://www.gartner.com/reprints/?id=1-2LVTG7RP&ct=250915&st=sb
+
+TimeoutError: https://www.linkedin.com/company/github
+
+TimeoutError: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+
+TimeoutError: https://skills.github.com
+
+TimeoutError: https://resources.github.com
+
+TimeoutError: https://docs.github.com/search-github/github-code-search/understanding-github-code-search-syntax
+
+TimeoutError: https://www.youtube.com/github
+
+TimeoutError: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+
+TimeoutError: https://x.com/github
+
+TimeoutError: https://github.careers
+
+TimeoutError: https://shop.github.com
+
+TimeoutError: https://stars.github.com
+
+TimeoutError: https://support.github.com?tags=dotcom-footer
+
+TimeoutError: https://archiveprogram.github.com
+
+TimeoutError: https://docs.github.com/get-started/exploring-integrations/about-building-integrations
+
+TimeoutError: https://www.githubstatus.com
+
+TimeoutError: https://desktop.github.com
+
+TimeoutError: https://support.github.com
+
+m
+
+TimeoutError: https://services.github.com
+
+TimeoutError: https://cli.github.com
+
+TimeoutError: https://securitylab.github.com
+
+TimeoutError: https://docs.github.com
+
+TimeoutError: https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/
+
+TimeoutError: https://resources.github.com/security/the-enterprise-guide-to-ai-powered-devsecops/
+
+TimeoutError: https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/
+
+TimeoutError: https://github.blog/open-source/maintainers/
+
+TimeoutError: https://github.blog/author/aaronwinston/
+
+TimeoutError: https://github.blog/author/nickthinks/
+
+TimeoutError: https://github.blog/security/application-security/
+
+TimeoutError: https://www.youtube.com/watch?v=n0NlxUyA7FI&list=PL0lo9MOBetEFc6rN_y9-YKA3plCSUb1NP
+
+TimeoutError: https://resources.github.com/software-development/innersource/
+
+TimeoutError: https://github.blog/open-source/gaming/
+
+TimeoutError: https://github.blog/author/gregose/
+
+TimeoutError: https://github.blog/open-source/
+
+TimeoutError: https://github.blog/open-source/social-impact/
+
+TimeoutError: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag/
+
+TimeoutError: https://github.blog/news-insights/research/
+
+TimeoutError: https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/
+
+TimeoutError: https://github.blog/news-insights/product-news/
+
+TimeoutError: https://github.blog/news-insights/the-library/
+
+TimeoutError: https://github.blog/news-insights/
+
+TimeoutError: https://github.blog/enterprise-software/governance-and-compliance/
+
+TimeoutError: https://github.blog/ai-and-ml/generative-ai/how-ai-code-generation-works/
+
+TimeoutError: https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/
+
+d-ascii-banner/
+
+TimeoutError: https://github.blog/enterprise-software/ci-cd/
+
+TimeoutError: https://twitter.com/github
+
+TimeoutError: https://github.blog/engineering/platform-security/
+
+TimeoutError: https://github.blog/enterprise-software/
+
+TimeoutError: https://github.blog/engineering/how-we-use-github-to-be-more-productive-collaborative-and-secure/
+
+TimeoutError: https://shop.github.com/
+
+TimeoutError: https://docs.github.com/en/github/site-policy/github-privacy-statement
+
+TimeoutError: https://support.github.com/
+
+TimeoutError: https://docs.github.com/en/githubTimeoutError: https://desktop.github.com/
+
+TimeoutError: https://www.instagram.com/github/
+
+TimeoutError: https://github.blog/engineering/
+
+astructure/
+
+TimeoutError: https://www.electronjs.org/
+
+
+TimeoutError: https://atom.io/
+
+thub.com/
+
+TimeoutError: https://partner.github.com/
+
+TimeoutError: https://github.blog/engineering/architecture-optimization/
+
+TimeoutError: https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/
+
+e&utm_medium=blog&utm_campaign=agent-3p-platform-feb-2026
+
+TimeoutError: https://docs.github.com/en/get-started
+
+TimeoutError: https://github.blog/news-insights/company-news/github-availability-report-january-2026/
+
+TimeoutError: https://github.blog/author/vfedorovgh/
+
+TimeoutError: https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/
+
+TimeoutError: https://github.blog/developer-skills/github-education/
+
+TimeoutError: https://github.blog/news-insights/company-news/github-availability-report-february-2026/
+
+TimeoutError: https://github.blog/author/adamshwert/
+
+TimeoutError: https://github.blog/author/dbirtolo/
+
+TimeoutError: https://github.blog/enterprise-software/devops/
+
+TimeoutError: https://github.blog/author/lukeghenco/
+
+TimeoutError: https://github.blog/author/bartekperz/
+
+TimeoutError: https://www.youtube.com/playlist?list=PL0lo9MOBetEE0goMLEl97vO7slruNVj43
+
+TimeoutError: https://www.youtube.com/playlist?list=PL0lo9MOBetEHEHi9h0k_lPn0XZdEeYZDS
+
+TimeoutError: https://www.youtube.com/@GitHub/playlists
+
+TimeoutError: https://www.youtube.com/playlist?list=PL0lo9MOBetEFKNlPHNouEmVeYeyoyGTXC
+
+TimeoutError: https://www.youtube.com/watch?v=b5Ho2_Si6hY
+
+TimeoutError: https://github.blog/developer-skills/application-development/
+
+TimeoutError: https://github.blog/author/ttaylorr/
+
+TimeoutError: https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/
+
+TimeoutError: https://github.blog/enterprise-software/automation/
+
+niverse-is-back-we-want-you-to-take-the-stage/
+
+TimeoutError: https://github.blog/author/tkjaer/
+
+TimeoutError: https://github.blog/developer-skills/
+
+TimeoutError: https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/
+
+TimeoutError: https://github.blog/author/dtaivpp/
+
+TimeoutError: https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/
+
+TimeoutError: https://github.blog/author/cehfisher/
+
+TimeoutError: https://github.blog/ai-and-ml/generative-ai/
+
+curity-risk-assessment-available-for-organizations
+
+TimeoutError: https://github.blog/changelog/2026-04-08-secret-scanning-improvements-to-alert-apis-webhooks-and-delegated-workflows
+
+TimeoutError: https://github.blog/changelog/2026-04-08-github-mobile-research-and-code-with-copilot-cloud-agent-anywhere
+
+TimeoutError: https://github.blog/changelog/2026-04-08-copilot-reviewed-pull-request-merge-metrics-now-in-the-usage-metrics-api
+
+TimeoutError: https://github.blog/author/mariorod/
+
+TimeoutError: https://docs.github.com/
+
+TimeoutError: https://github.blog/author/jtmcg/
+
+TimeoutError: https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/
+
+TimeoutError: https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/
+
+TimeoutError: https://github.blog/author/briancl2/
+
+TimeoutError: https://github.blog/author/mattnigh/
+
+TimeoutError: https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/
+
+TimeoutError: https://github.blog/author/jakuboleksy/
+
+TimeoutError: https://github.blog/latest/
+
+TimeoutError: https://github.blog/news-insights/company-news/github-availability-report-march-2026/
+
+TimeoutError: https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/
+
+TimeoutError: https://github.blog/author/steiza/
+
+TimeoutError: https://github.blog/changelog/2026/?label=actions
+
+n-security
+
+its-commits
+
+TimeoutError: https://github.blog/changelog/2026/1/
+
+TimeoutError: https://github.blog/changelog/2026-04-01-gpt-5-4-mini-is-now-available-in-copilot-student-auto-model-selection
+
+TimeoutError: https://github.blog/changelog/2026/?label=collaboration-tools
+
+TimeoutError: https://github.blog/changelog/2026/?label=copilot
+
+TimeoutError: https://github.blog/changelog/2026-04-07-dependabot-alerts-are-now-assignable-to-ai-agents-for-remediation
+
+TimeoutError: https://github.blog/changelog/2026-04-02-copilot-organization-custom-instructions-are-generally-available
+
+TimeoutError: https://github.blog/changelog/2026-04-03-organization-firewall-settings-for-copilot-cloud-agent
+
+TimeoutError: https://github.blog/changelog/2026/?label=application-security
+
+TimeoutError: https://github.blog/changelog/2024/
+
+TimeoutError: https://github.blog/changelog/2026-04-01-research-plan-and-code-with-copilot-cloud-agent
+
+TimeoutError: https://github.blog/changelog/2026-04-02-github-actions-early-april-2026-updates
+
+TimeoutError: https://github.blog/changelog/2018/
+
+TimeoutError: https://github.blog/changelog/2026-04-03-organization-runner-controls-for-copilot-cloud-agent
+
+TimeoutError: https://github.blog/changelog/2026-04-03-gpt-5-1-codex-gpt-5-1-codex-max-and-gpt-5-1-codex-mini-deprecated
+
+view-users
+
+TimeoutError: https://github.blog/changelog/2026-04-08-new-pgp-signing-key-for-github-cli-linux-packages
+
+TimeoutError: https://github.blog/changelog/2026-04-07-copilot-cli-now-supports-byok-and-local-models
+
+TimeoutError: https://github.blog/changelog/2026-04-02-improved-search-for-github-issues-is-now-generally-available
+
+TimeoutError: https://github.blog/changelog/2026-04-01-github-mobile-stay-in-flow-with-a-refreshed-copilot-tab-and-native-session-logs
+
+TimeoutError: https://github.blog/changelog/2026-04-01-github-mobile-faster-more-flexible-agent-assignment-from-issues
+
+TimeoutError: https://github.blog/changelog/2026-04-06-npm-trusted-publishing-now-supports-circleci
+
+TimeoutError: https://github.blog/changelog/2026-04-07-dependabot-version-updates-now-support-the-nix-ecosystem
+
+li-activity-in-organization-reports
+
+TimeoutError: https://github.blog/changelog/2026/?label=projects-and-issues
+
+TimeoutError: https://github.blog/changelog/2026/?label=client-apps
+
+TimeoutError: https://x.com/ghchangelog
+
+TimeoutError: https://github.blog/changelog/2026-04-08-github-copilot-in-visual-studio-code-march-releases
+
+TimeoutError: https://github.blog/changelog/2026/
+
+TimeoutError: https://github.blog/changelog/2025/
+
+TimeoutError: https://github.blog/changelog/2026/?label=account-management
+
+TimeoutError: https://github.blog/changelog/2026/?label=enterprise-management-tools
+
+TimeoutError: https://github.blog/changelog/2026/4/
+
+TimeoutError: https://github.blog/changelog/2026-04-02-the-security-tab-is-now-security-quality
+
+TimeoutError: https://github.blog/changelog/2026-04-02-copilot-sdk-in-public-preview
+
+TimeoutError: https://github.blog/changelog/2026/3/
+
+TimeoutError: https://github.blog/changelog/2026-04-07-code-scanning-batch-apply-security-alert-suggestions-on-pull-requests
+
+TimeoutError: https://github.blog/changelog/2026/2/
+
+TimeoutError: https://github.blog/changelog/2026-04-01-codespaces-is-now-generally-available-for-github-enterprise-with-data-residency
+
+TimeoutError: https://code.visualstudio.com/updates/v1_115
+
+TimeoutError: https://play.google.com/store/apps/details?id=com.github.android
+
+TimeoutError: https://wiki.nixos.org/wiki/Flakes
+
+TimeoutError: https://docs.dynatrace.com/docs/secure/threat-observability/security-events-ingest/ingest-github-advanced-security#credentials--github-app-based-authentication
+
+TimeoutError: https://docs.github.com/rest/secret-scanning
+
+TimeoutError: https://docs.github.com/copilot/how-tos/copilot-cli/customize-copilot/use-byok-models#running-in-offline-mode
+
+TimeoutError: https://docs.github.com/code-security/dependabot/dependabot-version-updates/about-dependabot-version-updates
+
+TimeoutError: https://docs.github.com/enterprise-cloud@latest/copilot/concepts/agents/about-third-party-agents
+
+TimeoutError: https://docs.github.com/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates
+
+TimeoutError: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/authenticate-copilot-cli#unauthenticated-use
+
+TimeoutError: https://docs.github.com/enterprise-cloud@latest/rest/copilot/copilot-usage-metrics?apiVersion=2026-03-10
+
+TimeoutError: https://docs.github.com/copilot/how-tos/copilot-cli/customize-copilot/use-byok-models
+
+TimeoutError: https://docs.github.com/code-security/secret-scanning/introduction/about-secret-scanning
+
+TimeoutError: https://docs.github.com/copilot/concepts/copilot-usage-metrics
+
+TimeoutError: https://apps.apple.com/us/app/github/id1477376905
+
+TimeoutError: https://docs.github.com/enterprise-cloud@latest/code-security/concepts/code-scanning/code-security-risk-assessment
+
+TimeoutError: https://docs.github.com/enterprise-cloud@latest/code-security/responsible-use/responsible-use-autofix-code-scanning
+
+TimeoutError: https://gh.io/community-secret-scanning
+
+TimeoutError: https://docs.github.com/get-started/learning-about-github/about-github-advanced-security
+
+TimeoutError: https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuring-dependabot-version-updates
+
